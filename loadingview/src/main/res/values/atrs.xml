@@ -8,6 +8,6 @@
         <attr name="lv_end_color" format="color" />
     </declare-styleable>
 
-    <color name="color_start">#00CFDB</color>
-    <color name="color_end">#0063A6</color>
+    <color name="color_start">#676BC3</color>
+    <color name="color_end">#3700B3</color>
 </resources>

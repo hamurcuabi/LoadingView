@@ -2,7 +2,7 @@ package com.github.loadingview
 
 import android.app.Activity
 import android.graphics.drawable.ColorDrawable
-import android.support.v7.app.AlertDialog
+import androidx.appcompat.app.AlertDialog
 import android.view.LayoutInflater
 
 class LoadingDialog private constructor(internal var activity: Activity) {

@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LoadingDialog.iml" filepath="$PROJECT_DIR$/LoadingDialog.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/loadingview/loadingview.iml" filepath="$PROJECT_DIR$/loadingview/loadingview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fork-LoadingView.iml" filepath="$PROJECT_DIR$/Fork-LoadingView.iml" group="Fork-LoadingView" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Fork-LoadingView/app" />
+      <module fileurl="file://$PROJECT_DIR$/loadingview/loadingview.iml" filepath="$PROJECT_DIR$/loadingview/loadingview.iml" group="Fork-LoadingView/loadingview" />
     </modules>
   </component>
 </project>
